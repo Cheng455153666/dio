@@ -5,7 +5,7 @@ homepage: https://github.com/flutterchina/dio
 author: wendux <824783146@qq.com>
 
 environment:
-  sdk: '>=1.9.0 <3.0.0'
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   cookie_jar: ^1.0.0
